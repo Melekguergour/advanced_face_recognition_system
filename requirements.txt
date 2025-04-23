@@ -1,0 +1,7 @@
+torch
+opencv-python
+mediapipe
+faiss-cpu
+Pillow
+ipywidgets
+IPython
